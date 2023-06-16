@@ -10,7 +10,7 @@ The Laptop Price Prediction project aims to develop a machine learning model tha
 # Methodology:
 1 - Data Cleaning <br>
 2 - Descriptive Analysis <br>
-3 - Faeture Engeneering
+3 - Faeture Engeneering <br>
 4 - Exploratory Data Analysis <br>
 5 - Visualizing Findings <br>
 6 - Observation Writing <br>
